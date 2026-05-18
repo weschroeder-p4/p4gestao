@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://p4gestao.com.br/sitemap.xml
